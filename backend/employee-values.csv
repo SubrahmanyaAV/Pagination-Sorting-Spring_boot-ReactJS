@@ -1,0 +1,31 @@
+emp_id, emp_address, emp_email, emp_name, emp_salary, dept_id
+1, Malleshwaram 4th cross, john@gmail.com, john, 55000, 1
+2, MG Road, mary@gmail.com, mary, 60000, 2
+3, Brigade Road, mike@gmail.com, mike, 58000, 3
+4, Indiranagar, sarah@gmail.com, sarah, 62000, 4
+5, Koramangala, chris@gmail.com, chris, 53000, 5
+6, Whitefield, emma@gmail.com, emma, 56000, 6
+7, Electronic City, james@gmail.com, james, 54000, 7
+8, BTM Layout, olivia@gmail.com, olivia, 57000, 8
+9, Marathahalli, william@gmail.com, william, 59000, 9
+10, HSR Layout, sophia@gmail.com, sophia, 61000, 10
+11, Jayanagar, daniel@gmail.com, daniel, 60000, 11
+12, Hebbal, emily@gmail.com, emily, 52000, 12
+13, Yelahanka, liam@gmail.com, liam, 63000, 13
+14, J.P. Nagar, ava@gmail.com, ava, 59000, 14
+15, Rajajinagar, noah@gmail.com, noah, 58000, 15
+16, Koramangala, mia@gmail.com, mia, 57000, 16
+17, Indiranagar, benjamin@gmail.com, benjamin, 59000, 17
+18, Whitefield, harper@gmail.com, harper, 55000, 18
+19, Malleshwaram 4th cross, ethan@gmail.com, ethan, 62000, 19
+20, MG Road, abigail@gmail.com, abigail, 61000, 20
+21, Brigade Road, michael@gmail.com, michael, 53000, 21
+22, Electronic City, sophia@gmail.com, sophia, 59000, 22
+23, HSR Layout, mia@gmail.com, mia, 60000, 23
+24, Hebbal, olivia@gmail.com, olivia, 54000, 24
+25, Yelahanka, william@gmail.com, william, 62000, 25
+26, J.P. Nagar, emma@gmail.com, emma, 56000, 26
+27, Rajajinagar, chris@gmail.com, chris, 58000, 27
+28, Jayanagar, liam@gmail.com, liam, 57000, 28
+29, BTM Layout, noah@gmail.com, noah, 57000, 29
+30, Marathahalli, ava@gmail.com, ava, 59000, 30
